@@ -18,7 +18,7 @@ TODO, if applicable - I will not planning to combine this final project with ano
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable - Christian Riedl, ,Tamara Katic
+TODO, if applicable - Christian Riedl,tuk88750@temple.edu,Tamara Katic
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
